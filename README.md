@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil 👋 
 
-<!--
-**maiconferreira18/maiconferreira18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maicon Ferreira
 
-Here are some ideas to get you started:
+- Eu gosto de tirar foto
+- Meu instagram é maiconferreira_18 Segue lá.
+- Eu sou da PASCOM.
+- sou da ExpressArte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 
+  maiconfrreira3490@gmail.com
+
+  @maiconferreira_18
+
+  ![](https://media1.tenor.com/m/pVUmEWhvQQAAAAAC/playing-alone-lilo-and-stitch.gif)
+  ![](https://media1.tenor.com/m/lXCKBwWBR3YAAAAC/tom-y-jerry-tom-and-jerry.gif)
+  ![](https://media1.tenor.com/m/HO5PlU1pwPUAAAAC/cojestprawda.gif)
+  ![](https://media1.tenor.com/m/eUeJUW7zdgkAAAAC/the-flash.gif)
