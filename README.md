@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil 👋 
+## Bem-vindo ao meu perfil 💙👋
 
 Meu nome é Maicon Ferreira
 
@@ -7,7 +7,7 @@ Meu nome é Maicon Ferreira
 - Eu sou da PASCOM.
 - sou da ExpressArte.
 
-  ### Você pode entrar em contato comigo 
+  ### Você pode entrar em contato comigo 📧
   maiconfrreira3490@gmail.com
 
   @maiconferreira_18
