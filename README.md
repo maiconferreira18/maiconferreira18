@@ -6,6 +6,7 @@ Meu nome é Maicon Ferreira
 - Meu instagram é maiconferreira_18 Segue lá.
 - Eu sou da PASCOM.
 - sou da ExpressArte.
+- Sou da Pastoral dos Coroinhas
 
   ### Você pode entrar em contato comigo 📧
   maiconfrreira3490@gmail.com
